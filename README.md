@@ -1,0 +1,2 @@
+# Importing-and-handling-data-to-show-Animal-Vehicle-incident-frequency-in-Iowa-by-county-with-plotly
+An experiment and proof of concept that takes data from two different sources, an Excel file and a geojson file. It then creates a reference between these files  by county name and counts the matches to show frequency of animal-vehicle incidents in Iowa per County with the use of a choropleth map.
